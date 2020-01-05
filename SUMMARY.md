@@ -1,5 +1,5 @@
 # summary
-* [关于本书](./java/1/README.md)
+* [关于本书](README.md)
 * [Java](./java/1/java.md)
     - [第一节](./java/1/1.md)
         - [1.1](./java/1/1-1.md)
